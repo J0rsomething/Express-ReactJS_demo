@@ -1,3 +1,3 @@
 # Express-ReactJS_demo
-This demo shows how express backend works with react front end.
+This demo shows how express backend works with react front end. \n
 Feature adding in progress...
